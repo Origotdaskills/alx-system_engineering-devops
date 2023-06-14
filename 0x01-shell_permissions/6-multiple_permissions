@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod root betty hello
+chmod 754 root betty hello
